@@ -1,0 +1,24 @@
+H1{
+    color:dodgerblue;
+    font-family: "Sofia", sans-serif;
+    border: 12px solid powderblue;
+
+
+}
+
+H2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#217C7E;
+    padding-left:10px;
+}
+P{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid #FFCC99;
+}
+BODY{
+    background-color: #F3EFE0;
+}
+
+/* a{
+
+}//For the backgorund */
